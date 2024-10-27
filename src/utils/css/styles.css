@@ -1,0 +1,383 @@
+.TextField-without-border-radius fieldset {
+  border-radius: 54.6591px;
+}
+
+.css-sosgta-MuiButtonBase-root-MuiButton-root:hover {
+  background-color: #f60618 !important;
+}
+
+.css-154xyx0-MuiInputBase-root-MuiOutlinedInput-root {
+  border-radius: 54.6591px !important;
+}
+
+.css-1pzwdxo-MuiButtonBase-root-MuiMenuItem-root:hover {
+  color: #f60618 !important;
+  background-color: inherit !important;
+}
+
+.selectedTime {
+  color: #f60618 !important;
+  background-color: inherit !important;
+}
+
+.css-1poimk-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper {
+  border-radius: 10px !important;
+  padding: 0.6em 1em;
+}
+
+.css-1l3gffz-MuiButtonBase-root-MuiButton-root-MuiStack-root {
+  color: #f60618 !important;
+  border: 1px solid #d23852 !important;
+}
+
+.css-l7oqsv-MuiStack-root {
+  max-width: 50vw !important;
+}
+
+.css-hq2t9e-MuiButtonBase-root-MuiButton-root {
+  color: #f60618 !important;
+  border: 1px solid #d23852 !important;
+}
+
+.styledTime {
+  background: linear-gradient(80.67deg, #c42e66 27.97%, #d23852 96.9%);
+  color: white;
+}
+
+.selectedCar {
+  background: #fff1f3 !important;
+  color: #d23852 !important;
+  border: 1px solid #c42e66 !important;
+}
+
+/* react date-picker styles configurations */
+
+.react-datepicker {
+  width: 100% !important;
+  height: 100% !important;
+  font-size: 1em;
+  border: none !important;
+  box-shadow: 0px 0px 33px 5px rgba(27, 48, 89, 0.05),
+    0px 4px 6px -2px rgba(16, 24, 40, 0.05) !important;
+}
+
+.react-datepicker__month-container {
+  float: none !important;
+  height: 100%;
+}
+
+.react-datepicker__day-names {
+  display: flex !important;
+  padding: 0.4rem !important;
+  justify-content: space-between !important;
+}
+
+.react-datepicker__day-names,
+.react-datepicker__week {
+  display: flex !important;
+  justify-content: space-between !important;
+}
+
+.react-datepicker__current-month,
+.react-datepicker-time__header,
+.react-datepicker-year-header {
+  padding-bottom: 8px !important;
+}
+
+.react-datepicker__day-names {
+  background-color: #ffffff !important;
+}
+
+.react-datepicker__header {
+  border-bottom: none !important;
+  padding-top: 0.8em;
+  background-color: #e4e7ec !important;
+}
+
+.react-datepicker__day--selected,
+.react-datepicker__day--in-selecting-range,
+.react-datepicker__day--in-range,
+.react-datepicker__month-text--selected,
+.react-datepicker__month-text--in-selecting-range,
+.react-datepicker__month-text--in-range,
+.react-datepicker__quarter-text--selected,
+.react-datepicker__quarter-text--in-selecting-range,
+.react-datepicker__quarter-text--in-range,
+.react-datepicker__year-text--selected,
+.react-datepicker__year-text--in-selecting-range,
+.react-datepicker__year-text--in-range {
+  background: linear-gradient(
+    80.67deg,
+    #c42e66 27.97%,
+    #d23852 96.9%
+  ) !important;
+}
+
+.react-datepicker__day--keyboard-selected,
+.react-datepicker__month-text--keyboard-selected,
+.react-datepicker__quarter-text--keyboard-selected,
+.react-datepicker__year-text--keyboard-selected {
+  background: linear-gradient(
+    80.67deg,
+    #c42e66 27.97%,
+    #d23852 96.9%
+  ) !important;
+}
+
+.react-datepicker__month {
+  margin: 0.4em 1em;
+}
+
+.stroke-green-400 {
+  color: #c42e66;
+}
+
+.stroke-gray-200 {
+  background-color: #f60618;
+}
+
+.carousel-caption {
+  position: static !important;
+  padding: 0 !important;
+  text-align: start !important;
+  width: 50% !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 2 !important;
+}
+
+.carousel-caption h3 {
+  color: white !important;
+}
+
+.carousel-caption p {
+  color: white !important;
+}
+
+.carousel-caption button {
+  color: #f83d4b !important;
+  text-decoration: none;
+}
+
+.css-fvc8ir-MuiBadge-badge {
+  background: linear-gradient(
+    80.67deg,
+    #c42e66 27.97%,
+    #d23852 96.9%
+  ) !important;
+  color: white;
+}
+
+.fullWidthField {
+  width: 100% !important;
+  margin-bottom: 0.5em !important;
+  margin-top: 0.5em !important;
+}
+
+.css-1lc2xj3-MuiImageListItemBar-root {
+  position: absolute !important;
+  height: 100% !important;
+  background: transparent !important;
+  left: 0 !important;
+  display: flex !important;
+  align-items: flex-start !important;
+  box-shadow: rgb(0 0 0 / 35%) 0px 108px 100px 5px inset !important;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif !important;
+  top: 0 !important;
+}
+.css-1lizpae-MuiImageListItemBar-titleWrap {
+  flex-grow: 1 !important;
+  padding: 12px 16px !important;
+  color: #fff !important;
+  height: 100% !important;
+  overflow: hidden !important;
+}
+
+.css-dasnyc-MuiImageListItemBar-title {
+  font-size: 2rem !important;
+  line-height: 24px !important;
+  display: flex !important;
+  text-overflow: ellipsis !important;
+  overflow: hidden !important;
+  height: 20% !important;
+  white-space: nowrap !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+}
+
+.css-1c32n2y-MuiBadge-root {
+  width: 2.6875em !important;
+}
+
+.css-cveggr-MuiListItemIcon-root {
+  min-width: 1.875em !important;
+}
+
+.sidebarStyle {
+  background: #feeced !important;
+  color: #f83d4b !important;
+  border-radius: 10px !important;
+}
+.logoutStyles {
+  background: #f83d4b !important;
+  color: white !important;
+  border-radius: 10px !important;
+}
+
+.carousel {
+  border-radius: 25px 25px 25px 25px !important;
+  overflow: hidden !important;
+  height: 100% !important;
+}
+.carousel-inner {
+  min-height: 40vh !important;
+  height: fit-content !important;
+  height: 100% !important;
+}
+
+.carousel-item {
+  min-height: 40vh !important;
+  height: 100% !important;
+  display: none !important;
+  flex-direction: column !important;
+}
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active {
+  min-height: 40vh !important;
+  height: 100% !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center;
+  gap: 2.5rem;
+}
+.slick-prev:before,
+.slick-next:before {
+  display: none;
+}
+
+/* Slick Slider Auth Styles */
+.button__bar {
+  display: inline-block;
+  vertical-align: middle;
+  margin: auto;
+  padding: 0;
+  background: #fafafa;
+  border-radius: 40px;
+  width: 100%;
+  text-align: start;
+}
+
+.button__bar li {
+  list-style: none;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0 3px;
+  padding: 0;
+}
+
+.button__bar li button {
+  border: none;
+  background: #f83d4b;
+  color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+}
+
+.button__bar li.slick-active button {
+  background-color: #f83d4b;
+  width: 50px;
+  border-radius: 20px;
+}
+
+.button__bar li button:hover,
+.button__bar li button:focus {
+  background: rgba(247, 34, 34, 0.8);
+  outline: 0;
+}
+
+/* Slick Slider Reffer Styles */
+
+.slick-container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.slick-slide {
+  height: auto;
+}
+.slick-slide .img-reffer {
+  width: 95%;
+  height: 17.35625em;
+}
+.slick-track {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: stretch;
+}
+
+.centered_button__bar {
+  display: inline-block;
+  vertical-align: middle;
+  margin: auto;
+  padding: 0;
+  background: #ffffff;
+  border-radius: 40px;
+  min-width: 20%;
+  text-align: center;
+}
+.centered_button__bar li {
+  list-style: none;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0 3px;
+  padding: 0;
+}
+
+.centered_button__bar li button {
+  border: none;
+  background: #f83d4b;
+  color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+}
+
+.centered_button__bar li.slick-active button {
+  background-color: #f83d4b;
+  width: 50px;
+  border-radius: 20px;
+}
+
+.centered_button__bar li button:hover,
+.centered_button__bar li button:focus {
+  background: rgba(247, 34, 34, 0.8);
+  outline: 0;
+}
+
+/* .slick-container {
+  width: 70%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.slick-slide {
+  margin: 0 10px;
+  height: 100%;
+  display: flex !important;
+}
+.slick-slider {
+  height: 100%;
+}
+
+@media (max-width: 768px) {
+  .slick-container {
+    width: 30%;
+  }
+} */
